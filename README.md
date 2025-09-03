@@ -1,4 +1,4 @@
-# CODSOFT-Movie-rating-prediction
+# Movie-rating-prediction
 
 This is a practice project created while learning Data Analysis concepts.
 
